@@ -1,2 +1,2 @@
 # sandkun.github.io
-블로그
+git pages 로 블로그 만들어 보기
